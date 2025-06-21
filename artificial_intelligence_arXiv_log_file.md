@@ -293,3 +293,66 @@ Arshad Beg, Diarmuid O'Donoghue, Rosemary Monahan
 
 ---
 
+**[Probabilistic Aggregation and Targeted Embedding Optimization for Collective Moral Reasoning in Large Language Models](https://arxiv.org/abs/2506.14625)**  
+Chenchen Yuan, Zheyu Zhang, Shuo Yang et al.  
+- Expectation-Maximization (EM) Algorithm  
+- Probabilistic Aggregation Methods  
+- Targeted Embedding Optimization
+- Moral Judgment Modeling with LLMs
+
+---
+
+**[Optimization-Based Image Restoration under Implementation Constraints in Optical Analog Circuits](https://arxiv.org/abs/2506.14624)**  
+Taisei Kato, Ryo Hayakawa, Soma Furusawa et al.  
+- Total Variation (TV) Regularization  
+- Iterative Optimization Algorithms  
+- Constrained Optimization Techniques
+- Optical Analog Computation
+
+---
+
+**[Feasibility-Driven Trust Region Bayesian Optimization](https://arxiv.org/abs/2506.14619)**  
+Paolo Ascia, Elena Raponi, Thomas Bäck et al.  
+- Feasibility-Driven Trust Region Bayesian Optimization (FuRBO)  
+- Trust Region Methods  
+- Bayesian Optimization  
+- Acquisition Function Strategies  
+- Surrogate Modeling (e.g., Gaussian Processes)
+
+---
+
+**[Exploring MLLMs Perception of Network Visualization Principles](https://arxiv.org/abs/2506.14611)**  
+Jacob Miller, Markus Wallinger, Ludwig Felder et al.  
+- Layered Drawing Algorithm  
+- Graph Layout Techniques  
+- Network Visualization Principles
+
+---
+
+**[Expressive Score-Based Priors for Distribution Matching with Geometry-Preserving Regularization](https://arxiv.org/abs/2506.14607)**  
+Ziyu Gong, Jim Lim, David I. Inouye  
+- Alternating Optimization Algorithm  
+- Score-Based Priors  
+- Distribution Matching (DM) Techniques  
+- Sinkhorn Divergences  
+- Geometry-Preserving Regularization  
+- Likelihood-Based Matching
+
+---
+
+**[Guaranteed Guess: A Language Modeling Approach for CISC-to-RISC Transpilation with Testing Guarantees](https://arxiv.org/abs/2506.14606)**  
+Ahmed Heakl, Sarim Hashmi, Chaimaa Abi et al.  
+- Language Modeling for Code Translation  
+- CISC-to-RISC Instruction Mapping  
+- Formal Verification Techniques
+- Instruction Set Architecture (ISA) Mapping
+
+---
+
+**[Computational Studies in Influencer Marketing: A Systematic Literature Review](https://arxiv.org/abs/2506.14602)**  
+Haoyang Gui, Thales Bertaglia, Catalina Goanta et al.
+
+-
+
+---
+
