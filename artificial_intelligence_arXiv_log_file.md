@@ -221,4 +221,75 @@ Jongin Choi, Jina Park, Woojoo Lee et al.
 
 ---
 
+**[Rigor in AI: Doing Rigorous AI Work Requires a Broader, Responsible AI-Informed Conception of Rigor](https://arxiv.org/abs/2506.14652)**  
+Alexandra Olteanu, Su Lin Blodgett, Agathe Balayn et al.  
+—
+
+---
+
+**[SENIOR: Efficient Query Selection and Preference-Guided Exploration in Preference-based Reinforcement Learning](https://arxiv.org/abs/2506.14648)**  
+Hexian Ni, Tao Lu, Haoyuan Hu et al.  
+- SENIOR (Preference-Guided Exploration Algorithm)
+- Preference-Based Reinforcement Learning (PbRL)  
+- Off-Policy RL Algorithms
+- PEBBLE Algorithm (Baseline)
+- Query Selection Strategies
+
+---
+
+**[GuiLoMo: Allocating Expert Number and Rank for LoRA-MoE via Bilevel Optimization with GuidedSelection Vectors](https://arxiv.org/abs/2506.14646)**  
+Hengyuan Zhang, Xinrong Chen, Yingmin Qiu et al.  
+- Bilevel Optimization  
+- GuidedSelection Vectors  
+- Low-Rank Adaptation (LoRA)  
+- Mixture-of-Experts (MoE) Models  
+- Parameter Allocation Algorithms  
+- Multi-Task Learning Optimization
+
+---
+
+**[Revisiting Chain-of-Thought Prompting: Zero-shot Can Be Stronger than Few-shot](https://arxiv.org/abs/2506.14641)**  
+Xiang Cheng, Chengyan Pan, Minjun Zhao et al.  
+- VoteK Algorithm  
+- Determinantal Point Process (DPP) Sampling  
+- Chain-of-Thought (CoT) Prompting  
+- Zero-Shot and Few-Shot Prompt Selection Strategies  
+- Confidence-Based Reranking
+
+---
+
+**[A New cw-NMR Q-meter for Dynamically Polarized Targets for Particle Physics](https://arxiv.org/abs/2506.14637)**  
+J. D. Maxwell, J. Brock, C. Cuevas et al.  
+- FPGA-Based Signal Generation  
+- NMR Signal Processing Algorithms  
+- Frequency Sweep and Sampling Algorithms
+
+---
+
+**[Integrating Movable Antennas and Intelligent Reflecting Surfaces (MA-IRS): Fundamentals, Practical Solutions, and Opportunities](https://arxiv.org/abs/2506.14636)**  
+Qingqing Wu, Ziyuan Zheng, Ying Gao et al.  
+- Successive Convex Approximation (SCA)  
+- Particle Swarm Optimization (PSO)  
+- Evolutionary Algorithms
+- Beamforming Algorithms
+
+---
+
+**[AIn't Nothing But a Survey? Using Large Language Models for Coding German Open-Ended Survey Responses on Survey Motivation](https://arxiv.org/abs/2506.14634)**  
+Leah von der Heyde, Anna-Carolina Haensch, Bernd Weiß et al.  
+- Support Vector Machines (SVMs)  
+- Naive Bayes Classifier   
+- Large Language Models (LLMs)  
+- Text Classification Algorithms
+
+---
+
+**[ACM Survey Draft on Formalising Software Requirements with Large Language Models](https://arxiv.org/abs/2506.14627)**  
+Arshad Beg, Diarmuid O'Donoghue, Rosemary Monahan
+
+- Formal Verification Algorithms
+- Syntax and Semantic Parsing Algorithms
+- Automated Knowledge Extraction
+
+---
 
