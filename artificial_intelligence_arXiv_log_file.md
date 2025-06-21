@@ -4,9 +4,9 @@
 
 - **Platform:** arXiv
 - **Keyword(s):** artificial intelligence AND algorithm
-- **Date of search:** 2025-06-21
-- **Articles reviewed:** 1
-— **Time window:** 2024-2025
+- **Date of search:** 2025-06-22
+- **Articles reviewed:** 38
+— **Time window:** 2025
 
 ---
 
@@ -58,7 +58,6 @@ Ziqiao Peng, Wentao Hu, Junyuan Ma et al.
 
 **[SETI@home: Data Analysis and Findings](https://arxiv.org/abs/2506.14737)**  
 David P. Anderson, Eric J. Korpela, Dan Werthimer et al.
-
 - Radio Frequency Interference (RFI) 
 - Signal Detection and Ranking Algorithms
 - Fast Fourier Transform (FFT)
