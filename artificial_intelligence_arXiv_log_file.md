@@ -5,7 +5,7 @@
 - **Platform:** arXiv
 - **Keyword(s):** artificial intelligence AND algorithm
 - **Date of search:** 2025-06-22
-- **Articles reviewed:** 38
+- **Articles reviewed:** 80
 — **Time window:** 2025
 
 ---
@@ -355,3 +355,380 @@ Haoyang Gui, Thales Bertaglia, Catalina Goanta et al.
 
 ---
 
+**[Learning From the Past with Cascading Eligibility Traces](https://arxiv.org/abs/2506.14598)**  
+Tokiniaina Raharison Ralambomihanta, Ivan Anokhin, Roman Pogodin et al.  
+- Cascading Eligibility Traces  
+- Actor-Critic Reinforcement Learning  
+- Temporal Difference (TD) Learning  
+- Policy Gradient Methods
+- Algorithm 1: RL with Eligibility Traces
+
+---
+
+**[Deep Learning Surrogates for Real-Time Gas Emission Inversion](https://arxiv.org/abs/2506.14597)**  
+Thomas Newman, Christopher Nemeth, Matthew Jones et al.
+
+- Deep Learning Surrogate Models  
+- Computational Fluid Dynamics (CFD) Simulation  
+- Emission Inversion Techniques
+
+---
+
+**[PoseGRAF: Geometric-Reinforced Adaptive Fusion for Monocular 3D Human Pose Estimation](https://arxiv.org/abs/2506.14596)**  
+Ming Xu, Xu Zhang
+
+- Geometric-Reinforced Adaptive Fusion (PoseGRAF)  
+- Feature Reconstruction Algorithm (Algorithm 1)  
+- Monocular 3D Human Pose Estimation
+- Attention Mechanisms for Feature Fusion
+
+---
+
+**[The Use of Cross Validation in the Analysis of Designed Experiments](https://arxiv.org/abs/2506.14593)**  
+Maria L. Weese, Byran J. Smucker, David J. Edwards
+
+- Cross Validation (CV)  
+- Artificial Neural Networks (ANNs)  
+- Box-Behnken Design (BBD)  
+- Central Composite Design (CCD)
+
+---
+
+**[Uncertainty in AI-driven Monte Carlo Simulations](https://arxiv.org/abs/2506.14594)**  
+Dimitrios Tzivrailis, Alberto Rosso, Eiji Kawasaki
+
+- Monte Carlo Simulations  
+- Metropolis-Hastings (MH) Algorithm  
+- Machine Learning-Enhanced Sampling  
+- Uncertainty Quantification in Probabilistic Models
+
+---
+
+**[250 Magnetic Tunnel Junctions-Based Probabilistic Ising Machine](https://arxiv.org/abs/2506.14590)**  
+Shuhan Yang, Andrea Grimaldi, Youwei Bao et al.
+
+- Probabilistic Ising Machine (PIM)  
+- Spin-Transfer Torque Magnetic Tunnel Junctions (STT-MTJs)  
+- Co-Design Architecture (device-circuit-algorithm integration)  
+- Annealing-Based Optimization Methods
+
+---
+
+**[SCISSOR: Mitigating Semantic Bias through Cluster-Aware Siamese Networks for Robust Classification](https://arxiv.org/abs/2506.14587)**  
+Shuo Yang, Bardh Prenkaj, Gjergji Kasneci
+
+- Markov Clustering Algorithm (MCL)  
+- Siamese Neural Networks  
+- Semantic Cluster Integration  
+- Robust Text Classification Techniques
+
+---
+
+**[Busting the Paper Ballot: Voting Meets Adversarial Machine Learning](https://arxiv.org/abs/2506.14582)**  
+Kaleel Mahmood, Caleb Manicke, Ethan Rathbun et al.
+
+- Machine Learning Algorithms for Ballot Tabulation  
+- Adversarial Example Attacks  
+- Robustness Evaluation of Voting Systems  
+- Image Classification and Mark Detection
+
+---
+
+**[Review of Machine Learning for Real-Time Analysis at the Large Hadron Collider experiments ALICE, ATLAS, CMS and LHCb](https://arxiv.org/abs/2506.14578)**  
+Laura Boggia, Carlos Cocha, Fotis Giasemis et al. 
+
+- Boosted Decision Trees (BDTs)  
+- Artificial Neural Networks (ANNs)  
+- Convolutional Neural Networks (CNNs)
+
+---
+
+**[Object-Centric Neuro-Argumentative Learning](https://arxiv.org/abs/2506.14577)**  
+Abdul Rahman Jacob, Avinash Kori, Emanuele De Angelis et al.
+
+- Rule-Based Learning Algorithm: FOLD-SE-M  
+- Binarised Kernel Extraction from CNNs  
+- Neuro-Symbolic Reasoning  
+- Argumentation-Based AI Models
+
+---
+
+**[SoK: Privacy-Enhancing Technologies in Artificial Intelligence](https://arxiv.org/abs/2506.14576)**  
+Nouha Oualha
+
+-
+
+---
+
+**[Integrated Photonic Deep Neural Network with End-to-End On-Chip Backpropagation Training](https://arxiv.org/abs/2506.14575)**  
+Farshid Ashtiani, Mohamad Hossein Idjadi, Kwangwoong Kim
+
+- Backpropagation (BP) Algorithm  
+- Gradient-Free Optimization Methods  
+- On-Chip Training in Photonic Neural Networks
+
+---
+
+**[Bayesian Knowledge Transfer for a Kalman Fixed-Lag Interval Smoother](https://arxiv.org/abs/2506.14572)**  
+Ondřej Skalský, Jakub Dokoupil
+
+- Kalman Fixed-Lag Smoothing Algorithm  
+- Bayesian Knowledge Transfer  
+- State Estimation Algorithms
+- Interval Smoothing Methods
+
+---
+
+**[Enhancing Symbolic Machine Learning by Subsymbolic Representations](https://arxiv.org/abs/2506.14569)**  
+Stephen Roth, Lennart Baur, Derian Boer et al.
+
+- Symbolic Learning Algorithm: TILDE  
+- Logic Tensor Networks (LTNs)  
+- Subsymbolic Embeddings  
+- Neuro-Symbolic Integration
+
+---
+
+**[AlphaDecay: Module-wise Weight Decay for Heavy-Tailed Balancing in LLMs](https://arxiv.org/abs/2506.14562)**  
+Di He, Ajay Jaiswal, Songjun Tu et al.
+
+- Module-Wise Weight Decay Algorithm (AlphaDecay)  
+- Large Language Model (LLM) Optimization  
+- Heavy-Tailed Distribution Balancing
+
+---
+
+**[Aligning Evaluation with Clinical Priorities: Calibration, Label Shift, and Error Costs](https://arxiv.org/abs/2506.14540)**  
+Gerardo A. Flores, Alyssa H. Smith, Julia A. Fukuyama, Ashia C. Wilson 
+
+- Pool Adjacent Violators Algorithm (PAVA)  
+- Calibration Techniques  
+- Label Shift Adaptation  
+- Error Cost Modeling
+
+---
+
+**[Complete Characterization for Adjustment in Summary Causal Graphs of Time Series](https://arxiv.org/abs/2506.14534)**  
+Clément Yvernes, Emilie Devijver, Eric Gaussier
+
+- Pseudo-Linear Adjustment Algorithm  
+- Causal Inference in Time Series  
+- Identifiability Queries in Causal Graphs  
+- Adjustment Criterion Formalization  
+- Graph-Based Reasoning Techniques  
+
+---
+
+**[A Statistical Framework for Dynamic Cognitive Diagnosis in Digital Learning Environments](https://arxiv.org/abs/2506.14531)**  
+Yawen Ma, Anastasia Ushakova, Kate Cain et al.
+
+- Markov Chain Monte Carlo (MCMC) Algorithm  
+- Latent Profile Estimation  
+- Cognitive Diagnosis Modeling (CDM)
+
+---
+
+**[Integrating Radiomics with Deep Learning Enhances Multiple Sclerosis Lesion Delineation](https://arxiv.org/abs/2506.14524)**  
+Nadezhda Alsahanova, Pavel Bartenev, Maksim Sharaev et al.
+
+- Radiomics Feature Extraction Algorithms  
+- Feature Weighting Algorithms  
+- Deep Learning for Medical Image Segmentation  
+- High-Dimensional Data Mining in Imaging
+
+---
+
+**[Towards Improved Research Methodologies for Industrial AI: A Case Study of False Call Reduction](https://arxiv.org/abs/2506.14521)**  
+Korbinian Pfab, Marcel Rothering
+
+-
+
+---
+
+**[Two-Player Zero-Sum Games with Bandit Feedback](https://arxiv.org/abs/2506.14518)**  
+Elif Yılmaz, Christos Dimitrakakis
+
+- Explore-Then-Commit for Two-Player Zero-Sum Games (ETC-TPZSG)  
+- Bandit Feedback Algorithms
+- Regret Minimization Algorithms  
+- Game-Theoretic Learning Algorithms
+
+---
+
+**[Train Once, Forget Precisely: Anchored Optimization for Efficient Post-Hoc Unlearning](https://arxiv.org/abs/2506.14515)**  
+Prabhav Sanga, Jaskaran Singh, Arun K. Dubey
+
+- Gradient-Based Update Algorithm  
+- Anchored Optimization for Post-Hoc Unlearning  
+- Efficient Knowledge Removal in Machine Learning
+
+---
+
+**[MOL: Joint Estimation of Micro-Expression, Optical Flow, and Landmark via Transformer-Graph-Style Convolution](https://arxiv.org/abs/2506.14511)**  
+Zhiwen Shao, Yifan Cheng, Feiran Li et al.  
+
+- Transformer-Graph-Style Convolution Algorithm 
+- Optical Flow Estimation Algorithms  
+- Landmark Detection Methods  
+- Micro-Expression Recognition
+
+---
+
+**[An ELIXIR Scoping Review on Domain-Specific Evaluation Metrics for Synthetic Data in Life Sciences](https://arxiv.org/abs/2506.14508)**  
+Styliani-Christina Fragkouli, Somya Iqbal, Lisa Crossman et al.
+
+-
+
+---
+
+**[Toward Safety-First Human-Like Decision Making for Autonomous Vehicles in Time-Varying Traffic Flow](https://arxiv.org/abs/2506.14502)**  
+Xiao Wang, Junru Yu, Jun Huang et al.
+
+- Safety-Critical Decision-Making Models  
+- Risk-Aware Planning Algorithms  
+- Imitation Learning for Human-Like Behavior
+
+---
+
+**[LLM-Powered Swarms: A New Frontier or a Conceptual Stretch?](https://arxiv.org/abs/2506.14496)**  
+Muhammad Atta Ur Rahman, Melanie Schranz
+
+- Traditional Swarm Intelligence Algorithms (e.g., Boids, Particle Swarm Optimization)  
+- LLM-Driven Swarm Coordination  
+- Decentralized Agent-Based Models  
+- Comparative Evaluation of Classical and LLM-Based Swarms  
+- Emergent Behavior Modeling
+
+---
+
+**[LingoLoop Attack: Trapping MLLMs via Linguistic Context and State Entrapment into Endless Loops](https://arxiv.org/abs/2506.14493)**  
+Jiyuan Fu, Kaixun Jiang, Lingyi Hong et al.
+
+- Projected Gradient Descent (PGD) Algorithm  
+- Adversarial Perturbation Optimization
+- LLM Behavior Manipulation Techniques
+
+---
+
+**[Reimagining Target-Aware Molecular Generation through Retrieval-Enhanced Aligned Diffusion](https://arxiv.org/abs/2506.14488)**  
+Dong Xu, Zhangfan Yang, Ka-chun Wong et al.
+
+- TM-align: Protein Structure Alignment Algorithm  
+- Diffusion Models for Molecular Generation  
+- Retrieval-Augmented Generation Techniques
+
+---
+
+**[Adaptive Data Augmentation for Thompson Sampling](https://arxiv.org/abs/2506.14479)**  
+Wonyoung Kim
+
+- Thompson Sampling (LinTS)  
+- Upper Confidence Bound Algorithm (LinUCB)  
+- Linear Contextual Bandits  
+- Adaptive Data Augmentation Techniques  
+
+---
+
+**[GUI-Robust: A Comprehensive Dataset for Testing GUI Agent Robustness in Real-World Anomalies](https://arxiv.org/abs/2506.14477)**  
+Jingqi Yang, Zhilong Song, Jiawei Chen et al.
+
+-
+
+---
+
+**[SimSpark: Interactive Simulation of Social Media Behaviors](https://arxiv.org/abs/2506.14476)**  
+Ziyue Lin, Yi Shan, Lin Gao, Xinghua Jia, Siming Chen
+
+- Simulation Algorithms (not specifically named)
+
+---
+
+**[LexiMark: Robust Watermarking via Lexical Substitutions to Enhance Membership Verification of an LLM's Textual Training Data](https://arxiv.org/abs/2506.14474)**  
+Eyal German, Sagiv Antebi, Edan Habler et al. 
+
+- Watermark Embedding Algorithm (Algorithm 1) 
+
+---
+
+**[Foundation Model Insights and a Multi-Model Approach for Superior Fine-Grained One-shot Subset Selection](https://arxiv.org/abs/2506.14473)**  
+Zhijing Wan, Zhixiang Wang, Zheng Wang et al.
+
+- Fine-Grained One-shot Subset Selection Algorithm
+
+---
+
+**[AST-Enhanced or AST-Overloaded? The Surprising Impact of Hybrid Graph Representations on Code Clone Detection](https://arxiv.org/abs/2506.14470)**  
+Zixian Zhang, Takfarinas Saber
+
+- Abstract Syntax Trees (ASTs)
+- Graph Neural Networks (GNNs)  
+- Code Clone Detection Algorithms
+
+---
+
+**[Leveraging External Factors in Household-Level Electrical Consumption Forecasting using Hypernetworks](https://arxiv.org/abs/2506.14472)**  
+Fabien Bernier, Maxime Cordy, Yves Le Traon
+
+- Hybrid Backtracking Search Algorithm (for parameter optimization in cited work)  
+
+---
+
+**[A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks](https://arxiv.org/abs/2506.14464)**  
+Maximilian Baronig, Yeganeh Bahariasl, Ozan "Ozdenizci et al.
+
+- Gradient-Based Learning Algorithms
+- Approximate Online Forward Learning
+
+---
+
+**[Collaborative Charging Scheduling via Balanced Bounding Box Methods](https://arxiv.org/abs/2506.14461)**  
+Fangting Zhou, Balázs Kulcsár, Jiaming Wu
+
+- Fuzzy Genetic Algorithms  
+- Fuzzy Discrete Particle Swarm Optimization  
+- Decision Space Search Algorithms (general class)
+
+---
+
+**[A Model-Mediated Stacked Ensemble Approach for Depression Prediction Among Professionals](https://arxiv.org/abs/2506.14459)**  
+Md. Mortuza Ahmmed, Abdullah Al Noman, Mahin Montasir Afif et al.
+
+- Stacked Ensemble Learning  
+- Various ML Algorithms (not individually specified)
+
+---
+
+**[Dataset Distillation for Memorized Data: Soft Labels Can Leak Held-Out Teacher Knowledge](https://arxiv.org/abs/2506.14457)**  
+Freya Behrens, Lenka Zdeborová 
+
+- Dataset Distillation Algorithms
+
+---
+
+**[Active Digital Twins via Active Inference](https://arxiv.org/abs/2506.14453)**  
+Matteo Torzoni, Domenico Maisto, Andrea Manzoni et al.
+
+- Active Inference
+
+---
+
+**[How Far Can LLMs Improve from Experience? Measuring Test-Time Learning Ability in LLMs with Human Comparison](https://arxiv.org/abs/2506.14448)**  
+Jiayin Wang, Zhiquang Guo, Weizhi Ma et al.
+
+-
+
+---
+
+**[A General Framework for Off-Policy Learning with Partially-Observed Reward](https://arxiv.org/abs/2506.14439)**  
+Rikiya Takehi, Masahiro Asami, Kosuke Kawakami et al.  
+
+- HyPeR Algorithm (Hybrid Partially-Observed Reward)  
+- Off-Policy Reinforcement Learning
+
+---
+
+**[sHGCN: Simplified Hyperbolic Graph Convolutional Neural Networks](https://arxiv.org/abs/2506.14438)**  
+Pol Arévalo, Alexis Molina, Álvaro Ciudad
+
+- Graph Convolutional Neural Networks (GCNNs)
+- Hyperbolic Neural Networks
